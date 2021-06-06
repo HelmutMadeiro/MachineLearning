@@ -36,3 +36,8 @@ dados$milhas_por_ano <- NULL
 dados$ano_do_modelo <- NULL
 
 head(dados)
+
+
+
+
+
